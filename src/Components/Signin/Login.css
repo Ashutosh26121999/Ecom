@@ -1,0 +1,126 @@
+.login-container {
+  width: 350px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  font-family: "Amazon Ember", Arial, sans-serif;
+  background-color: #ffffff;
+}
+
+.login-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.login-header img {
+  width: 120px;
+  height: auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #de9638;
+}
+
+.login-header h1 {
+  font-size: 22px;
+  font-weight: 400;
+  margin: 10px 0;
+  color: #111;
+}
+
+.login-form {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.login-form label {
+  font-size: 14px;
+  color: #111;
+  margin-bottom: 5px;
+  display: block;
+}
+
+.login-form input {
+  width: 100%;
+  height: 36px;
+  margin-bottom: 20px;
+  padding: 8px;
+  border: 1px solid #a6a6a6;
+  border-radius: 3px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+.login-form button {
+  width: 100%;
+  height: 36px;
+  background-color: #f0c14b;
+  color: #111;
+  border: 1px solid #a88734;
+  border-radius: 3px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.login-form button:hover {
+  background-color: #ddb347;
+}
+
+.login-form p {
+  font-size: 12px;
+  color: #666;
+  margin: 10px 0;
+  line-height: 1.5;
+}
+
+.login-form a {
+  color: #0066c0;
+  text-decoration: none;
+}
+
+.login-form a:hover {
+  text-decoration: underline;
+}
+
+.login-footer {
+  text-align: center;
+  font-size: 12px;
+  margin-top: 20px;
+}
+
+.login-footer p {
+  margin-bottom: 10px;
+  color: #555;
+}
+
+.login-footer a {
+  text-decoration: none;
+  color: #0066c0;
+  font-weight: bold;
+}
+
+.login-footer a:hover {
+  text-decoration: underline;
+}
+.new-to-amazon {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 12px;
+  color: #555;
+}
+
+.new-to-amazon h3 {
+  text-decoration: none;
+  color: #0066c0;
+  font-weight: bold;
+}
+
+.new-to-amazon h3:hover {
+  text-decoration: underline;
+  color: #ddb347;
+}
